@@ -1,6 +1,6 @@
 # Jogo :video_game:
 
-# Sobre o projeto
+# Sobre o projeto:
 O projeto é um jogo chamado "Adivinhe o Número", implementado em Python. O objetivo do jogo é adivinhar um número 
 aleatório gerado pelo computador. O jogo começa com uma mensagem de boas-vindas e instruções para o jogador.
 
@@ -9,19 +9,19 @@ tentativas para adivinhar o número, digitando um valor pelo teclado. O número 
 
 <br>
 
-## Desktop
+## Desktop:
 ![Web](https://github.com/Guilherme-de-Melo-Werneck/Jogo-adivinha/assets/110049442/a52c5949-cb2a-49a0-8872-f59caccf78e9)
 
 
 
 <br>
 
-# Tecnologias utilizadas
+# Tecnologias utilizadas:
 - PYTHON
 
 <br>
 
-# Como executar o projeto
+# Como executar o projeto:
 
 Pré-requisitos: PYTHON 3
 

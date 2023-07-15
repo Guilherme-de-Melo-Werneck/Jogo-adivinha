@@ -23,8 +23,6 @@ tentativas para adivinhar o número, digitando um valor pelo teclado. O número 
 
 # Como executar o projeto:
 
-Pré-requisitos: PYTHON 3
-
 ```bash
 # clonar repositório
 git clone https://github.com/Guilherme-de-Melo-Werneck/Jogo-adivinha.git
@@ -33,8 +31,9 @@ git clone https://github.com/Guilherme-de-Melo-Werneck/Jogo-adivinha.git
 python calculadora.py
 
 ```
+<br>
 
-# Autor
+# Autor:
 
 Guilherme de Melo Werneck
 

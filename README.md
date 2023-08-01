@@ -1,4 +1,4 @@
-# Jogo :video_game:
+# Jogo da adivinha :video_game:
 
 # Sobre o projeto:
 O projeto é um jogo chamado "Adivinhe o Número", implementado em Python. O objetivo do jogo é adivinhar um número 
